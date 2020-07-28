@@ -5,3 +5,5 @@ class Song
     @title=title
   end
 end
+
+Beyonce=artist.new
