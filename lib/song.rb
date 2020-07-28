@@ -6,4 +6,3 @@ class Song
   end
 end
 
-Beyonce=artist.new
